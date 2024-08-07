@@ -25,3 +25,7 @@ Handle book damage and loss.
 Reporting and Analytics:
 Generate various reports on book circulation, user activity, and library statistics.
 Utilize Pandas for data analysis and visualization.
+
+important note : 
+Create a virtual enviroement and store app.py ,index.html and style.css in it and then run the code . Do not forget to update your mongodb client Server url.
+Thank you!
